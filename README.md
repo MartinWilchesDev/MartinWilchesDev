@@ -6,5 +6,4 @@
   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 </div>
